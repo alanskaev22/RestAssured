@@ -16,13 +16,13 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some comment of id 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "body": "some comment of id 2",
+      "postId": 2
     }
   ],
   "profile": {
